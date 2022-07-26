@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Basic Bitch",
+    "version": "1.0",
+    "default_locale": "en",
+    "description": "Nothing too fancy. Just a cutom bg.",
+    "icons": {
+        "16": "",
+        "48": "",
+        "128": ""
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "",
+            "48": "",
+            "128": ""
+        }
+    },
+    "content_scripts": [{}]
+}
