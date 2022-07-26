@@ -8,7 +8,6 @@
         "48": "/images/icon48.png",
         "128": "/images/icon128.png"
     },
-    "permissions": ["storag"],
     "action": {
         "default_popup": "popup.html"
     },
